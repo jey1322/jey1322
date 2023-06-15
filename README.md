@@ -1,9 +1,9 @@
-### Hola a todos 👋
+# Hola a todos 👋
 
 
-**Jairo Antonio Paniagua Garcia. Soy desarrollador de aplicaciones Android, usando el lenguaje Kotlin.
+#### Jairo Antonio Paniagua Garcia. Soy desarrollador de aplicaciones Android, usando el lenguaje Kotlin.
 
-Acerca de mi:
+##### Acerca de mi:
 
 - 🔭 Actualmente trabajo en @AcReal Como desarrollador de Aplicaciones Android
 - 🔭 Trabajo en proyectos personales...
