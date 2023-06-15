@@ -9,5 +9,6 @@ Acerca de mi:
 - 🌱 Estudio el lenguaje de Kotlin, Swift y Flutter...
 - 💬 Servicios profesionales...
 - 📫 puedes contactarme: Jeypaniagua@gmail.com ..
+- Visita mi portafalio. Encontraras proyectos y mas formas de contactarme: jey1322.github.io
 
 [![committers.top badge](https://user-badge.committers.top/nicaragua_private/jey1322.svg)](https://user-badge.committers.top/nicaragua_private/jey1322)
