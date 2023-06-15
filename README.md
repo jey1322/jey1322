@@ -12,4 +12,4 @@
 - 📫 puedes contactarme: Jeypaniagua@gmail.com ..
 - Visita mi portafalio. Encontraras proyectos y mas formas de contactarme: [Mi portafolio](https://jey1322.github.io/)
   
-## Posición Top Commit Nicaragua:  [![Posicion top Nicaragua](https://user-badge.committers.top/nicaragua_private/jey1322.svg)](https://user-badge.committers.top/nicaragua_private/jey1322)
+## Posición Top Nicaragua:  [![Posicion top Nicaragua](https://user-badge.committers.top/nicaragua_private/jey1322.svg)](https://user-badge.committers.top/nicaragua_private/jey1322)
